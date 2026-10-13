@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nancy_aaa3.twa",
+        "sha256_cert_fingerprints": ["F0:75:72:CA:6C:BE:F1:56:1E:0C:AC:7A:D5:D8:CA:61:04:AA:70:00:95:C7:69:07:E4:99:31:9D:48:86:2D:CC"]
+      }
+    }]
